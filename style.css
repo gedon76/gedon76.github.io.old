@@ -1,5 +1,8 @@
 body {
   background-image: url("https://phonoteka.top/uploads/posts/2022-02/1645064430_68-phonoteka-org-p-svetlo-seraya-stena-fon-71.jpg");
+  background-color: rgb(22, 22, 22);
+  background-size: cover;
+  background-position: center;
 }
   h1 {
     color: #333;
@@ -23,10 +26,11 @@ body {
     margin: 5px 0;
   }
   a {
-    color: #333;
+    color: #000;
     text-decoration: none;
     font-family: Arial, sans-serif;
     font-size: 16px;
+    background-size: inherit
   }
   a:hover {
     color: #007bff;
