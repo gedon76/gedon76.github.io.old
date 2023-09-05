@@ -3,7 +3,7 @@
 #### I'm
 - working on fnf mods
 - learning school
-- fun fact: i use arch btw
+- and fun fact: i use arch btw
 
 
 <!--
