@@ -1,4 +1,9 @@
-### Hi there 👋
+### Helo
+
+- working on fnf mods
+- learning school
+- fun fact: i use arch btw
+
 
 <!--
 **gedon76/gedon76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
